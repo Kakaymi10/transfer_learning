@@ -1,5 +1,3 @@
-### README
-
 # Transfer Learning for Skin Lesion Classification
 
 ## Problem Statement
